@@ -44,7 +44,7 @@ body {
    .section img {
     width: 250px;
     height: 250px;
-    border: 5px solid#ff6600; /* Agrega un borde naranja de 5px */
+    border: 5px solid#ff6600;
     border-radius: 50%; 
 
   }
